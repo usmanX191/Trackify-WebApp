@@ -104,6 +104,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-For any questions or inquiries, please reach out to the development team at [rishavchanda0@gmail.com]
+For any questions or inquiries, please reach out to the development team at [usmanmehmood770@gmail.com]
 
 Enjoy using Trackify and stay productive!
