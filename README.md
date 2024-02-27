@@ -53,7 +53,7 @@ Trackify is a web application designed to streamline task management and enhance
 
 ### Clone the repository
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/Trackify.git`
+1. Clone the repository: `https://github.com/usmanX191/Trackify-WebApp.git`
 
 ### Configure the client
 
