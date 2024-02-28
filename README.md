@@ -98,9 +98,6 @@ MONGO_URL = <MongoDB connection string>
 
 We welcome contributions from the community to enhance Trackify. Feel free to submit bug reports, feature requests, or pull requests through the GitHub repository.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contact
 
